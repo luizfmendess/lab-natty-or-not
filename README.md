@@ -20,32 +20,36 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# VIDEO SOBRE CARROS CRIADO PARA PLATAFORMA TIKTOK ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um video com curiosidades sobre o carro dodge charger usando minha voz clonada imagens e roteiro geradas pelo copilot.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Natural Readers clonagem da minha voz e audio para o video: https://www.naturalreaders.com/
+Copilot geração das imagens e roteiro para o video: https://copilot.microsoft.com
+CapCut edição do video efeito imagens e geração das legendas do audio com recurso i.a do aplicativo: https://www.capcut.com/pt-br/
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+1 - Pesquisei sobre o roteiro no copilot
+2 - copie para o world editando o roteiro e colocando algumas palavras minhas
+3 - colei o texto para o natural readers para gerar o audio da minha voz
+4 - salvei o audio do mp3
+5 - gerei as imagens no copilot com o prompt: gerar imagens do carro dodge charger
+6 - importei as imagens e o audio em mp3 para o capcut realizei as edições necessarias , apos isso usei o recurso do aplicativo gerar legendas automaticamente com i.a
+7 - editei algumas partes da legenda para ficar como eu gosto,apos isso exportei o video para o formato 9:16 e pronto.
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O desafio foi gerar as imagens o mais parecido possivel com o carro dodge charger as vezes gerava faltando alguma coisa ou passando algo nas caracteristicas do carro, mais sabemos que as i.as estão em costante evolução.
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+link do video pronto: https://7bc5mc-my.sharepoint.com/:v:/g/personal/luizfmendess_7bc5mc_onmicrosoft_com/EVnufZVvoNVBuS4Grk66w_sBF_28iVWbURDaR31fy6-Mmw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=VCEJft
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+https://www.capcut.com/pt-br/
+https://copilot.microsoft.com
+https://www.naturalreaders.com/
